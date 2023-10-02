@@ -34,8 +34,7 @@
     display: block;   
 
 }
-.my-border{
-    border-top: 0;
-    border-left: 0;
-    border-right: 0;
+
+.my-backround-color{
+    background-color: var(--bs-teal);
 }
